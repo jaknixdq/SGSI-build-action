@@ -9,7 +9,7 @@ on:
 env:              
   ROM_URL: 'https://hx3lwdyv.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16s/9.21.8.10/cn_beta/20210810002011/de243672/update.zip?xy_rid=R9A~EGmQ54k~Fo'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Flyme'
+  OS_TYPE: 'Pixel'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '10'
