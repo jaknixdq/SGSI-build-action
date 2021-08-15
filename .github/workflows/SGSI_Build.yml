@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_30f382738dfe4ae0.zip'
-  ZIP_NAME: 'OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_30f382738dfe4ae0.zip'
-  OS_TYPE: 'H2OS'
+  ROM_URL: 'https://hx3lwdyv.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16s/9.21.8.10/cn_beta/20210810002011/de243672/update.zip?xy_rid=R9A~EGmQ54k~Fo'
+  ZIP_NAME: 'update.zip'
+  OS_TYPE: 'Flyme'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '12'
+  VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
